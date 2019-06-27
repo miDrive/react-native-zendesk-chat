@@ -200,6 +200,7 @@
 			name = Release;
 		};
 		B6462EC91C603E340010294B /* Debug */ = {
+		        FRAMEWORK_SEARCH_PATHS = "${SRCROOT}/../../../ios/Pods/ZDCChat/**";
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				HEADER_SEARCH_PATHS = (
@@ -215,6 +216,7 @@
 			name = Debug;
 		};
 		B6462ECA1C603E340010294B /* Release */ = {
+		        FRAMEWORK_SEARCH_PATHS = "${SRCROOT}/../../../ios/Pods/ZDCChat/**";
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				HEADER_SEARCH_PATHS = (
