@@ -95,6 +95,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = B6462EB61C603E340010294B;
@@ -200,9 +201,9 @@
 			name = Release;
 		};
 		B6462EC91C603E340010294B /* Debug */ = {
-		        FRAMEWORK_SEARCH_PATHS = "${SRCROOT}/../../../ios/Pods/ZDCChat/**";
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = "${SRCROOT}/../../../ios/Pods/ZDCChat/**";
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../../../React/**",
@@ -216,9 +217,9 @@
 			name = Debug;
 		};
 		B6462ECA1C603E340010294B /* Release */ = {
-		        FRAMEWORK_SEARCH_PATHS = "${SRCROOT}/../../../ios/Pods/ZDCChat/**";
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = "${SRCROOT}/../../../ios/Pods/ZDCChat/**";
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../../../React/**",
